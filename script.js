@@ -17,7 +17,7 @@ pokemons.addEventListener("change", function () {
     }else if(pokemons.value == 3){
         img.src = ("http://img14.deviantart.net/e25a/i/2011/230/a/2/hi_res_squirtle_by_elektro_omega-d4708gi.png")
     }else{
-        img.src = ("https://img.ibxk.com.br/2014/10/15/15193529779076.jpg");
+        img.src = ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rJufcDa696_J0uLAMTvli0bih88I9ZIIO5TrvbcwN5HU51CM");
     }
 
     console.log("Mudou o pokemon para " + options[pokemonAtual].text);
