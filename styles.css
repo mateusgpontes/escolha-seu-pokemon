@@ -1,0 +1,11 @@
+body{
+    display: flex;
+}
+#pokemons{
+    display: block;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
